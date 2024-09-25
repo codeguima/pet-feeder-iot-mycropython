@@ -1,14 +1,1 @@
-# alimentadorautomatizadoIOT
-
-Aqui um projeto de um alimentador de pet com micro controlador ESP32, com dados recebidos de um aplicativo de celular. projeto desenvolvido todo em python. possui um modulo para controlar um LCD 20X4 COM I2C. 
-
-
-
-
-
-
-
-
-
-https://github.com/jhonnycodedev/alimentadorautomatizadoIOT/assets/111026602/c83f60ba-38c7-4d6e-93c2-e4e54390a009
-
+O projeto IoT envolve o desenvolvimento de um alimentador automático para animais de estimação usando um ESP32 e programado em MicroPython. O sistema é capaz de se conectar a uma rede Wi-Fi e se comunicar com o Firebase para armazenar e sincronizar dados. Inclui um display LCD 20x4 para mostrar informações em tempo real e permite o controle do alimentador por meio de um aplicativo móvel. Ideal para donos de animais de estimação que precisam de automação nos cuidados diários.
